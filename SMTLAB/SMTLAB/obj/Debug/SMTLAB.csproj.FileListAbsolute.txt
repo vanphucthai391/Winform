@@ -1,0 +1,13 @@
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\bin\Debug\SMTLAB.exe.config
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\bin\Debug\SMTLAB.exe
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\bin\Debug\SMTLAB.pdb
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\bin\Debug\Npgsql.dll
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\bin\Debug\Npgsql.xml
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\obj\Debug\SMTLAB.csprojAssemblyReference.cache
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\obj\Debug\SMTLAB.Form1.resources
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\obj\Debug\SMTLAB.Properties.Resources.resources
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\obj\Debug\SMTLAB.csproj.GenerateResource.cache
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\obj\Debug\SMTLAB.csproj.CoreCompileInputs.cache
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\obj\Debug\SMTLAB.csproj.CopyComplete
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\obj\Debug\SMTLAB.exe
+D:\0. Nidec\C#SPACE\SMTLAB\SMTLAB\obj\Debug\SMTLAB.pdb
